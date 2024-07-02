@@ -1,5 +1,7 @@
 # CodeClauseInternship_ProjectName
-@codeclause Data Science internship Project Entry level: Predicting House Prices Project id:#CC69859
+@codeclause Data Science internship Project Entry level: Predicting House Prices
+
+Project id:#CC69859
 # Predicting House Prices
 @Codeclause  Data Science internship Project Entry level: Predicting House Prices
 The CodeClause Projects[Tasks]

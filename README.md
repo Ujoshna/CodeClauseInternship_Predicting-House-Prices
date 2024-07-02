@@ -6,7 +6,11 @@ The CodeClause Projects[Tasks]
 This repository contains the projects that I have completed while working as an intern for Codeclause.
 
 Internship Category - Data Science Intern
+
+
 Internship Duration - 1 Month ( July 2024 )
+
+
 Internship Type - Work from Home
 
 # Project Details- 

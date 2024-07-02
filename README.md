@@ -21,6 +21,7 @@ Internship Duration - 1 Month ( July 2024 )
 Internship Type - Work from Home
 
 # Project Details- 
+ # Predicting House Prices
  ◇ Aim-
    Build a simple linear regression model to predict house prices based on features like
  the number of bedrooms and square footage.

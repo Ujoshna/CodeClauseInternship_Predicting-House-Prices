@@ -2,8 +2,13 @@
 @codeclause Data Science internship Project Entry level: Predicting House Prices
 
 Project id:#CC69859
-# Predicting House Prices
+# CodeClause Internship Projects
 @Codeclause  Data Science internship Project Entry level: Predicting House Prices
+
+ Project Title - Customer Lifetime Value Prediction , Intermediate Level, Project ID - #CC69860
+ 
+ Project Title - Customer Segmentation Tool, Golden Level, Project ID - #CC69861
+ 
 The CodeClause Projects[Tasks]
 This repository contains the projects that I have completed while working as an intern for Codeclause.
 

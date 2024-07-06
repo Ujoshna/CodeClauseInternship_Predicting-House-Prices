@@ -30,6 +30,6 @@ Internship Type - Work from Home
 
  
  ◇  Technologies-
-  Python, Pandas, Seaborn , matplotlib, Scikit-learn.
+  Python, Pandas, numpy ,Seaborn , matplotlib, Scikit-learn.
 
 

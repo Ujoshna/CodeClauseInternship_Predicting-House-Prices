@@ -1,13 +1,10 @@
-# CodeClauseInternship_ProjectName
+# CodeClauseInternship_Predicting House Prices
 @codeclause Data Science internship Project Entry level: Predicting House Prices
 
 Project id:#CC69859
 # CodeClause Internship Projects
 @Codeclause  Data Science internship Project Entry level: Predicting House Prices
 
- Project Title - Customer Lifetime Value Prediction , Intermediate Level, Project ID - #CC69860
- 
- Project Title - Customer Segmentation Tool, Golden Level, Project ID - #CC69861
  
 The CodeClause Projects[Tasks]
 This repository contains the projects that I have completed while working as an intern for Codeclause.
@@ -33,6 +30,6 @@ Internship Type - Work from Home
 
  
  ◇  Technologies-
-  Python, Pandas, Scikit-learn.
- You can use other technologies that you know.
+  Python, Pandas, Seaborn , matplotlib, Scikit-learn.
+
 
